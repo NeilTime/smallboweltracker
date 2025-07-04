@@ -1,0 +1,6 @@
+Code for the MedIA paper 'Untangling and segmenting the small intestine in 3D cine-MRI using deep learning', van Harten et al. 2022
+DOI: 10.1016/j.media.2022.102386 
+
+Any publications in which code from this repository is used must cite the MedIA paper.
+
+This repository contains a refactored version of the original codebase, tailored to work with 4D data from the Radiotherapy department.
